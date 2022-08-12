@@ -34,7 +34,9 @@ class PokemonViewModel : ViewModel() {
                             type.type
                         }
                     )
+
                 }
+
             })
 
 
